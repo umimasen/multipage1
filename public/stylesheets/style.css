@@ -1,18 +1,17 @@
 body {
   font-family: 'Arial', sans-serif;
-  background: linear-gradient(to right, #ffb6c1, #98fb98); /* Strawberry & Matcha gradient */
-  color: #3c2f2f;
+  background: linear-gradient(to right, #ffb6c1, #98fb98); 
   text-align: center;
   padding: 20px;
 }
 
 h1 {
-  color: #d63384; /* Strawberry Pink */
+  color: #d63384; 
   font-size: 2.5em;
 }
 
 p {
-  color: #2e8b57; /* Matcha Green */
+  color: #2e8b57; 
   font-size: 1.2em;
 }
 
