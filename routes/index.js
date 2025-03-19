@@ -19,7 +19,7 @@ router.get('/contact', (req, res) => {
 
 // ✅ Serve blog page (Missing Route)
 router.get('/blog', (req, res) => {
-    res.sendFile(path.join(__dirname, '../views/blog.html'));  // Ensure blog.html exists
+    res.sendFile(path.join(__dirname, '../views/blog.ejs'));  // Ensure blog.html exists
 });
 
 module.exports = router;
